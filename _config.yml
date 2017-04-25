@@ -11,10 +11,10 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+author: 
+  name: Andrew Crook
+  email: andrewcrook@gmail.com
+  twitter: andrewcrook # twitter username without the @ symbol
 social:
   name: Hydra Template
   links:
